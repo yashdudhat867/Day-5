@@ -1,0 +1,19 @@
+                                                                                                                                                                 <day-3>
+                                                                                                                                       
+                                                                                                                 * working with css-selectors*               
+ 
+<html>
+<head>
+<title>working with css selectors</title>
+<style>
+.center{
+                        text-align: center;
+                        color: blue;
+                  }
+</style>
+<body>
+<h1>silver oak university</h1>
+<p class="center">happiness habit so cultivate</p>
+</body>
+</html>
+             
